@@ -14,7 +14,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка-на-репозиторий>
+   git clone https://github.com/tartemus/api-final-yatube-.git
    cd api_final_yatube
 
 2. Установите и активируйте виртуальное окружение:
